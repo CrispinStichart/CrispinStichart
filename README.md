@@ -41,5 +41,5 @@ If you're a recruiter checking me out and wondering about the lack of personal p
   * Also the first and last significant amount of Rust code I've ever written
 * Mail Client (*work in progress*)
   *  https://github.com/CrispinStichart/imap_client
-  *  Simple mail client intended to run 24/7 and send all incoming fail through whatever filters you define
+  *  Simple mail client intended to run 24/7 and send all incoming mail through whatever filters you define
   *  Started working on it after being unable to do what I wanted with Gmail's automatic filtering tools
